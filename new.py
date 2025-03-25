@@ -5,7 +5,7 @@ import speech_recognition as sr
 import pyttsx3
 
 
-genai.configure(api_key="AIzaSyBYblFEYcu_HdQDnrYtlm2lZJJwfZu3gdM")
+genai.configure(api_key="Api Key")
 
 
 tts_engine = pyttsx3.init()
